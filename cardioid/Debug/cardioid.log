@@ -1,0 +1,18 @@
+﻿  Cardioid.cpp
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(95): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(99): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(103): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(107): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(111): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\red\source\repos\cardioid\cardioid\cardioid.cpp(115): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
